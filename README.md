@@ -1,4 +1,4 @@
-# LAB 10: Discrete Fourier Transform (DFT) Analysis
+# Discrete Fourier Transform (DFT) Analysis
 
 ## AIM
 Perform various operations on an image using Discrete Fourier Transform (DFT):
